@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps:
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/AngelOfDeath19/Unity-Reels.git
+    git clone https://github.com/AngelofDeath19/Unity-Reels.git
     ```
 2.  Open the project in **Unity Hub** (ensure you have a compatible Unity version installed).
 3.  Once the project is loaded, open the main scene located in the `Assets/Scenes/` folder.
